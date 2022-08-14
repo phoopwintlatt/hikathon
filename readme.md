@@ -12,6 +12,7 @@ Font : <link
 
 Images : *download assets.zip in the attachment*
 Text : *download texts.txt in the attachment*
+arrow : &#8594;
 
 ### Colors
 Faded Black : rgba(22, 21, 21, 0.7)
